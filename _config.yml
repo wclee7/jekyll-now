@@ -175,3 +175,4 @@ exclude:
   - vendor/ruby/
 
 destination: ./build
+remote_theme : sujaykundu777/devlopr-jekyll
